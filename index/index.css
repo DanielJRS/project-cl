@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #D9D9D9;
+}
+
+menu{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    background-color: #2B2F33;
+}
+
+p{
+    text-align: justify;
+}
